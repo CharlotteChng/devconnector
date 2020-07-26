@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://charlotte123:charlotteweb@cluster0.721b4.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7279a7effd42cb4d943d",
+  "githubSecret": "a3b9d7a98f99c5162cba83c0fb0cca09e94ca335"
+}
